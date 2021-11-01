@@ -17,6 +17,7 @@ public class Main {
 
         System.out.printf("%.2f%n", calculator.calculate());
 
+        System.out.println();
 
 
 
